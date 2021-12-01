@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:D597756D-F5B7-41C3-9BF9-612A23C67ED0</id>
+ <title>Page list Atom feed</title>
+ <updated>2020-10-03T10:17:30-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:53243ACB-6697-4184-B8D3-F5B11E08E9D2</id>
+  <title>home</title>
+  <title xmlns="urn:iweb:">home</title>
+  <in-navbar xmlns="urn:iweb:">53243ACB-6697-4184-B8D3-F5B11E08E9D2</in-navbar>
+  <link rel="alternate" href="home.html"/>
+  <updated>2020-10-03T10:17:30.001-04:00</updated>
+  <content>home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1A9B41F1-4EF1-45D9-A7EC-87E59066F19E</id>
+  <title>publications</title>
+  <title xmlns="urn:iweb:">publications</title>
+  <in-navbar xmlns="urn:iweb:">1A9B41F1-4EF1-45D9-A7EC-87E59066F19E</in-navbar>
+  <link rel="alternate" href="publications.html"/>
+  <updated>2020-10-03T10:17:30.002-04:00</updated>
+  <content>publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:60FB0932-2EF0-4F58-81A0-F85E30CF3EFA</id>
+  <title>teaching</title>
+  <title xmlns="urn:iweb:">teaching</title>
+  <in-navbar xmlns="urn:iweb:">60FB0932-2EF0-4F58-81A0-F85E30CF3EFA</in-navbar>
+  <link rel="alternate" href="teaching.html"/>
+  <updated>2020-10-03T10:17:30.003-04:00</updated>
+  <content>teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EB5D7CE9-6BBF-4139-BA64-3E6B08F061EA</id>
+  <title>bio</title>
+  <title xmlns="urn:iweb:">bio</title>
+  <in-navbar xmlns="urn:iweb:">EB5D7CE9-6BBF-4139-BA64-3E6B08F061EA</in-navbar>
+  <link rel="alternate" href="bio.html"/>
+  <updated>2020-10-03T10:17:30.004-04:00</updated>
+  <content>bio</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:751CDDC9-AE59-427A-B6B6-6B584B0FC20C</id>
+  <title>personal</title>
+  <title xmlns="urn:iweb:">personal</title>
+  <in-navbar xmlns="urn:iweb:">751CDDC9-AE59-427A-B6B6-6B584B0FC20C</in-navbar>
+  <link rel="alternate" href="personal.html"/>
+  <updated>2020-10-03T10:17:30.005-04:00</updated>
+  <content>personal</content>
+ </entry>
+</feed>
