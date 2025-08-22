@@ -18,15 +18,6 @@
   <content>home</content>
  </entry>
  <entry>
-  <id>urn:iweb:EB5D7CE9-6BBF-4139-BA64-3E6B08F061EA</id>
-  <title>bio</title>
-  <title xmlns="urn:iweb:">bio</title>
-  <in-navbar xmlns="urn:iweb:">EB5D7CE9-6BBF-4139-BA64-3E6B08F061EA</in-navbar>
-  <link rel="alternate" href="bio.html"/>
-  <updated>2020-10-03T10:17:30.004-04:00</updated>
-  <content>bio</content>
- </entry>
- <entry>
   <id>urn:iweb:751CDDC9-AE59-427A-B6B6-6B584B0FC20C</id>
   <title>personal</title>
   <title xmlns="urn:iweb:">personal</title>
